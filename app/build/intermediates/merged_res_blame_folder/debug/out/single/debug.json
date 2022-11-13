@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-merged_res-5:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-debug-6:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-merged_res-5:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-debug-6:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-merged_res-5:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-debug-6:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.newapp-merged_res-5:/layout_activity_zagryzka.xml.flat",
+        "source": "com.example.newapp-main-7:/layout/activity_zagryzka.xml"
+    },
+    {
+        "merged": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-merged_res-5:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-debug-6:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-merged_res-5:\\layout_getstart.xml.flat",
+        "source": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-main-7:\\layout\\getstart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-merged_res-5:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-pngs-0:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-merged_res-5:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-debug-6:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-merged_res-5:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-debug-6:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-merged_res-5:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-debug-6:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-merged_res-5:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-debug-6:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-merged_res-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-debug-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-merged_res-5:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-debug-6:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-merged_res-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-debug-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-merged_res-5:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-debug-6:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-merged_res-5:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-debug-6:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-merged_res-5:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-main-7:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-merged_res-5:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-debug-6:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-merged_res-5:\\layout_log_in.xml.flat",
+        "source": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-main-7:\\layout\\log_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-merged_res-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-debug-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-merged_res-5:\\layout_activity_zagryzka.xml.flat",
+        "source": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-main-7:\\layout\\activity_zagryzka.xml"
+    },
+    {
+        "merged": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-merged_res-5:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-main-7:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-merged_res-5:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-debug-6:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-merged_res-5:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-debug-6:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-merged_res-5:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-debug-6:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-merged_res-5:\\layout_register.xml.flat",
+        "source": "C:\\Users\\Леся Кузнецова\\.gradle\\daemon\\7.4\\com.example.newapp-main-7:\\layout\\register.xml"
+    }
+]
